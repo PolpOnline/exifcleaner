@@ -109,7 +109,11 @@
 					]
 				},
 				{
-					"target": "portable"
+					"target": "portable",
+					"arch": [
+						"x64",
+						"ia32"
+					]
 				}
 			],
 			"extraResources": [
